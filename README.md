@@ -10,3 +10,4 @@ This repository is to store my personal notes related to this course.
     - [Solution Architecture on AWS](Compute&LoadBalancing/aws-solution-architecture.md)
     - [EC2](Compute&LoadBalancing/ec2.md)
     - [Auto Scaling](Compute&LoadBalancing/auto-scaling.md)
+    - [ECS](Compute&LoadBalancing/elastic-container-service.md)
