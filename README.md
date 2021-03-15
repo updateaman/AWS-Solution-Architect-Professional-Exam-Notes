@@ -11,4 +11,5 @@ This repository is to store my personal notes related to this course.
     - [EC2](Compute&LoadBalancing/ec2.md)
     - [Auto Scaling](Compute&LoadBalancing/auto-scaling.md)
     - [ECS](Compute&LoadBalancing/elastic-container-service.md)
-    - [AWS Lambda](Compute&LoadBalancing/aws-lambda-1.md)
+    - [AWS Lambda 1](Compute&LoadBalancing/aws-lambda-1.md)
+    - [AWS Lambda 2](Compute&LoadBalancing/aws-lambda-2.md)
