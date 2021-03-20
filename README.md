@@ -13,3 +13,8 @@ This repository is to store my personal notes related to this course.
     - [ECS](Compute&LoadBalancing/elastic-container-service.md)
     - [AWS Lambda 1](Compute&LoadBalancing/aws-lambda-1.md)
     - [AWS Lambda 2](Compute&LoadBalancing/aws-lambda-2.md)
+    - [Elastic Load Balancers](Compute&LoadBalancing/elastic-load-balancers.md)
+    - [API Gateway](Compute&LoadBalancing/api-gateway.md)
+    - [Route53 - Part 1](Compute&LoadBalancing/route53-part1.md)
+    - [Route53 - Part 2](Compute&LoadBalancing/route53-part2.md)
+- 
