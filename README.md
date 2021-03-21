@@ -21,4 +21,12 @@ This repository is to store my personal notes related to this course.
   - [EFS](Storage/efs.md)
   - [S3](Storage/s3.md)
 - Caching
-  - [CloudFront](Caching/cloudfront-part1.md)
+  - [CloudFront](Caching/cloudfront.md)
+  - [ElastiCache](Caching/elasticache.md)
+- Databases
+  - [DynamoDB](Databases/dynamodb.md)
+  - [ElasticSearch](Databases/elastic-search.md)
+  - [RDS](Databases/rds.md)
+  - [Aurora](Databases/aurora.md)
+- Service Communications
+  - [Step Functions](Service%20Communication/step-functions.md)
