@@ -29,4 +29,10 @@ This repository is to store my personal notes related to this course.
   - [RDS](Databases/rds.md)
   - [Aurora](Databases/aurora.md)
 - Service Communications
-  - [Step Functions](Service%20Communication/step-functions.md)
+  - [Step Functions](Service-Communication/step-functions.md)
+  - [SWF](Service-Communication/swf.md)
+  - [SQS](Service-Communication/sqs.md)
+  - [Amazon MQ](Service-Communication/amazon-mq.md)
+  - [SNS](Service-Communication/sns.md)
+- Data Engineering
+  - [Kinesis Data Streams](Data-Egineering/kinesis-data-streams.md)
