@@ -36,3 +36,9 @@ This repository is to store my personal notes related to this course.
   - [SNS](Service-Communication/sns.md)
 - Data Engineering
   - [Kinesis Data Streams](Data-Egineering/kinesis-data-streams.md)
+  - [Kinesis Data Firehose](Data-Egineering/kinesis-data-firehose.md)
+  - [Kinesis Data Analytics](Data-Egineering/kinesis-data-analytics.md)
+  - [AWS Batch](Data-Egineering/aws-batch.md)
+  - [Amazon EMR](Data-Egineering/emr.md)
+  - [Redshift](Data-Egineering/redshift.md)
+  - [Athena & Quicksight](Data-Egineering/athena-and-quicksight.md)
