@@ -42,3 +42,15 @@ This repository is to store my personal notes related to this course.
   - [Amazon EMR](Data-Egineering/emr.md)
   - [Redshift](Data-Egineering/redshift.md)
   - [Athena & Quicksight](Data-Egineering/athena-and-quicksight.md)
+- Monitoring
+  - [CloudWatch](Monitoring/cloudwatch.md)
+  - [X-Ray](Monitoring/xray.md)
+- Deployment And Instance Management
+  - [Elastic Beanstalk](Deployment-And-Instance-Management/elastic-beanstalk.md)
+  - [OpsWorks](Deployment-And-Instance-Management/opsworks.md)
+  - [CodeDeploy](Deployment-And-Instance-Management/codedeploy.md)
+  - [CloudFormation](Deployment-And-Instance-Management/cloudformation.md)
+  - [Service Catalog](Deployment-And-Instance-Management/service-catalog.md)
+  - [SAM - Serverless Application Model](Deployment-And-Instance-Management/sam.md)
+  - [Deployment Comparisons](Deployment-And-Instance-Management/deployment-comparisons.md)
+  - [AWS Systems Manager - SSM](Deployment-And-Instance-Management/ssm.md)

@@ -1,0 +1,22 @@
+# Deployment Options
+
+- Vanilla EC2 with User Data (just for the first launch)
+- Build an AMI for things that are slow to install (runtimes, updates, tools) and use EC2 user data for quick runtime setup
+- Auto Scaling Group with launch template (AMI)
+- CodeDeploy (no new AMI - application deployments)
+  - In-place on EC2
+  - In-place on ASG
+  - New instances on ASG
+  - Traffic shifting for AWS Lambda
+  - New task set for ECS + traffic shifting
+- Elastic Beanstalk
+  - In-place all at once upgrades
+  - Rolling upgrades (with or without additional instances)
+  - Immutable upgrades (new instances)
+  - Blue/Green (entirely new stack)
+- OpsWorks
+  - For chef/puppet stacks only
+  - Can manage ELB and EC2 instances
+  - Cannot manage an ASG
+- SAM Framework
+  - Leverages CloudFormation & CodeDeploy
