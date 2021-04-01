@@ -60,3 +60,12 @@ This repository is to store my personal notes related to this course.
   - [EC2 Launch Types & Savings Plan](Cost-Control/ec2-launch-types-and-savings-plan.md)
   - [S3 Cost Savings](Cost-Control/s3-cost-savings.md)
   - [S3 Tiers - Reminder](Cost-Control/s3-tiers-reminder.md)
+- Migration
+  - [Cloud Migrations - The 6R](Migration/cloud-migrations.md)
+  - [Storage Gateway](Migration/storage-gateway.md)
+  - [Snowball](Migration/snowball.md)
+  - [AWS DMS - Database Migration Services](Migration/database-migration-service.md)
+  - [VM Migrations (Application Discovery Services, Server Migration Services)](Migration/vm-migrations.md)
+  - [Disaster Recovery](Migration/disaster-recovery.md)
+- VPC
+  - [VPC - Basics](VPC/vpc-basics.md)
