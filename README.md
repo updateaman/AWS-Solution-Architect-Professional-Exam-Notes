@@ -54,3 +54,9 @@ This repository is to store my personal notes related to this course.
   - [SAM - Serverless Application Model](Deployment-And-Instance-Management/sam.md)
   - [Deployment Comparisons](Deployment-And-Instance-Management/deployment-comparisons.md)
   - [AWS Systems Manager - SSM](Deployment-And-Instance-Management/ssm.md)
+- Cost Control
+  - [Cost Allocation Tags](Cost-Control/cost-allocation-tags.md)
+  - [Trusted Advisor](Cost-Control/trusted-advisor.md)
+  - [EC2 Launch Types & Savings Plan](Cost-Control/ec2-launch-types-and-savings-plan.md)
+  - [S3 Cost Savings](Cost-Control/s3-cost-savings.md)
+  - [S3 Tiers - Reminder](Cost-Control/s3-tiers-reminder.md)
